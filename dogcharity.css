@@ -1,0 +1,28 @@
+body{
+	background-image: url("https://images.unsplash.com/photo-1510771463146-e89e6e86560e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=882&q=80");
+
+    margin:0;
+    background-position: 1px 1px 0%;
+    background: radial-gradient(blue);
+    cursor: pointer;
+
+
+}
+    
+
+
+
+h1{
+	color: indigo;
+	border: solid;
+	text-align: center;
+	background: brown;
+	border-color: blue;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+
+h4{
+	color: red;
+	text-align: center;
+	text-decoration-style: wavy;
